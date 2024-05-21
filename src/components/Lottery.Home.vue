@@ -10,7 +10,7 @@
       <p class="message" v-for="message in messages" :key="message.key">{{ message.wording }}</p>
     </div>
     <div class="footer">
-      <span>©️本活动最终解释权归</span>
+      <span>©️本app最終解釋權為</span>
       <span> {{ owner }} </span>
       <span>所有</span>
     </div>
