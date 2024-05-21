@@ -42,7 +42,8 @@ export default {
 
 <style>
 .app {
-  font-family: Muyao, Avenir, Helvetica, Arial, sans-serif;
+  /* font-family: Muyao, Avenir, Helvetica, Arial, sans-serif; */
+  font-family: Iansui, Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
