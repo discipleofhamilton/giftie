@@ -29,10 +29,20 @@ export default {
   justify-content: center;
   align-items: center;
 }
-.erkang-bg-top {
+/* .erkang-bg-top {
   width: 306.5px;
   height: 220px;
   background-image: url(../assets/images/erkang-top.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  z-index: 1;
+  position: relative;
+  top: 40px;
+} */
+.erkang-bg-top {
+  width: 306.5px;
+  height: 220px;
+  background-image: url(../assets/images/shien_miao_han.jpeg);
   background-size: 100% 100%;
   background-repeat: no-repeat;
   z-index: 1;
